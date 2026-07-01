@@ -654,7 +654,7 @@ const data = {
         webnovel: ["Shadow Slave (preferito)"],
         auto: ["Skyline GT-R R34"]
       },
-      social: [{ title: "Instagram", href: "https://www.instagram.com/_sch.priv/", note: "@_sch.priv" }],
+      social: [{ title: "Instagram", href: "https://www.instagram.com/_sch.stars/", note: "@_sch.stars" }],
       footerTop: "Su"
     },
     en: {
@@ -760,7 +760,7 @@ const data = {
         webnovel: ["Shadow Slave (favorite)"],
         auto: ["Skyline GT-R R34"]
       },
-      social: [{ title: "Instagram", href: "https://www.instagram.com/_sch.priv/", note: "@_sch.priv" }],
+      social: [{ title: "Instagram", href: "https://www.instagram.com/_sch.stars/", note: "@_sch.stars" }],
       footerTop: "Top"
     }
   }
